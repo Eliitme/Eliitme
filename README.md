@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi  👋
+### ⚡ Name    :  Lê Văn Long
+### ⚡ Age     :  20
+### ⚡ Sex     :  Male
+### ⚡ Job     :  Student
+### ⚡ School  :  BKACAD
+### ⚡ Language:  PHP, JavaScript, NodeJs
+### ⚡ Contact :   ▼   ▼   ▼   ▼   ▼   ▼
+### 📩 Email   : levanlong220700@gmail.com
+### 📞 Phone   : 096 168 4899
+### ⚡ Website : info.k19temptt.xyz
 
 <!--
 **HiiamLongdz/HiiamLongdz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
