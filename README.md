@@ -43,7 +43,7 @@
  > 
 > 💼 Opted to Hire
  > 
-> 📜 5 Public Repositories
+> 📜 4 Public Repositories
  > 
 > 🔑 0 Private Repository 
  > 
@@ -77,9 +77,6 @@ Sunday       1 commits      ░░░░░░░░░░░░░░░░░�
 No Activity Tracked This Week
 
 🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
 No Activity Tracked This Week
 
 ```
