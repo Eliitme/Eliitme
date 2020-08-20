@@ -33,11 +33,11 @@
 
 ### Schedules
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-22-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-147-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 42 Contributions in the Year 2020
+> 🏆 40 Contributions in the Year 2020
  > 
 > 📦 0 Bytes Used in Github's Storage 
  > 
