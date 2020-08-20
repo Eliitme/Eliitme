@@ -21,6 +21,8 @@
 
 <br />
 
-###
+### GitHub Stats Card
 [![My github stats](https://github-readme-stats.vercel.app/api?username=HiiamLongdz&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
+### Top Languages Card
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HiiamLongdz)](https://github.com/anuraghazra/github-readme-stats)
