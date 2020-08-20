@@ -26,10 +26,10 @@
 <br />
 
 ### GitHub Stats Card
-[![My github stats](https://github-readme-stats.vercel.app/api?username=HiiamLongdz&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![My github stats](https://github-readme-stats.vercel.app/api?username=HiiamLongdz&show_icons=true)](https://github.com/HiiamLongdz/github-readme-stats)
 
 ### Top Languages Card
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HiiamLongdz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HiiamLongdz&layout=compact)](https://github.com/HiiamLongdz/github-readme-stats)
 
 ### Schedules
 <!--START_SECTION:waka-->
