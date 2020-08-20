@@ -5,6 +5,8 @@
 - I'm currently learning everything 🙄
 - Fun Fact: tell jokes but no one laughs
 
+
+
 ### Contact with me
 
 [<img src="https://img.icons8.com/dusk/64/000000/facebook-new--v2.png" width="30px"/>Lê Văn Long](https://www.facebook.com/HiiamLongdzz)
@@ -26,3 +28,7 @@
 
 ### Top Languages Card
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HiiamLongdz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+### Schedules
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
