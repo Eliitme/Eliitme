@@ -5,6 +5,8 @@
 - I'm currently learning everything 🙄
 - Fun Fact: tell jokes but no one laughs
 
+### Spotify Playing 🎧
+[<img src="https://spotify-readme.hiiamlongdz.vercel.app/api/spotify-playing/api/spotify-playing" alt="J2TeamNNL Spotify Playing" width="350" />](https://open.spotify.com/playlist/37i9dQZF1DX1e2VSJFudND)
 
 
 ### Contact with me
