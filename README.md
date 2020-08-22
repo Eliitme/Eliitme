@@ -33,7 +33,7 @@
 
 ### Schedules
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-164-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-165-blue)
 
 **🐱 My Github Data** 
 
@@ -43,7 +43,7 @@
  > 
 > 💼 Opted to Hire
  > 
-> 📜 5 Public Repositories
+> 📜 4 Public Repositories
  > 
 > 🔑 0 Private Repository 
  > 
