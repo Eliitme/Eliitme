@@ -33,7 +33,7 @@
 
 ### Schedules
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-72-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-80-blue)
 
 **🐱 My Github Data** 
 
@@ -86,6 +86,15 @@ Chrome                   9 mins              ░░░░░░░░░░░�
 VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
+
+**I Mostly Code in PHP** 
+
+```text
+PHP                      4 repos             ████████████████████░░░░░   80.0% 
+HTML                     1 repos             █████░░░░░░░░░░░░░░░░░░░░   20.0%
+
+```
+
 
 
 <!--END_SECTION:waka-->
