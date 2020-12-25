@@ -33,7 +33,7 @@
 
 ### Schedules
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-17-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-21-blue)
 
 **🐱 My Github Data** 
 
