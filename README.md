@@ -33,17 +33,17 @@
 
 ### Schedules
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-41-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-25-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 8 Contributions in the Year 2021
+> 🏆 11 Contributions in the Year 2021
  > 
 > 📦 0 Bytes Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 10 Public Repositories
+> 📜 11 Public Repositories
  > 
 > 🔑 0 Private Repository 
  > 
@@ -88,9 +88,9 @@ VS Code                  16 hrs 28 mins      ███████████�
 **I Mostly Code in PHP** 
 
 ```text
-PHP                      5 repos             ███████████████░░░░░░░░░░   62.5% 
-JavaScript               2 repos             ██████░░░░░░░░░░░░░░░░░░░   25.0% 
-HTML                     1 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.5%
+PHP                      5 repos             ██████████████░░░░░░░░░░░   55.56% 
+HTML                     2 repos             █████░░░░░░░░░░░░░░░░░░░░   22.22% 
+JavaScript               2 repos             █████░░░░░░░░░░░░░░░░░░░░   22.22%
 
 ```
 
