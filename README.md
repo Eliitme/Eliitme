@@ -27,7 +27,7 @@
 ### Frameworks
 <img align="left" alt="Laravel" src="https://img.icons8.com/ios/50/000000/laravel.png" width="30px"/>
 <img align="left" alt="NestJS" src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg" width="30px" />
-<img align="left" alt="ReactJS" src="https://cpng.pikpng.com/pngl/s/493-4935324_add-a-welcome-page-with-sequential-stories-to.png" width="30px" />
+<img align="left" alt="ReactJS" src="https://img.icons8.com/dusk/64/000000/react.png" width="30px" />
 <br />
 
 ### Databases
