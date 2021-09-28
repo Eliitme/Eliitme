@@ -36,4 +36,75 @@
 <br />
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-43-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 92 Contributions in the Year 2021
+ > 
+> 📦 123.8 kB Used in GitHub's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 18 Public Repositories 
+ > 
+> 🔑 11 Private Repositories  
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    57 commits     ███████░░░░░░░░░░░░░░░░░░   29.53% 
+🌆 Daytime    59 commits     ███████░░░░░░░░░░░░░░░░░░   30.57% 
+🌃 Evening    30 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.54% 
+🌙 Night      47 commits     ██████░░░░░░░░░░░░░░░░░░░   24.35%
+
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday       39 commits     █████░░░░░░░░░░░░░░░░░░░░   20.21% 
+Tuesday      21 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.88% 
+Wednesday    18 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.33% 
+Thursday     67 commits     ████████░░░░░░░░░░░░░░░░░   34.72% 
+Friday       34 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.62% 
+Saturday     7 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.63% 
+Sunday       7 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.63%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Ho_Chi_Minh
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               7 repos             ████████░░░░░░░░░░░░░░░░░   35.0% 
+PHP                      5 repos             ██████░░░░░░░░░░░░░░░░░░░   25.0% 
+TypeScript               4 repos             █████░░░░░░░░░░░░░░░░░░░░   20.0% 
+Python                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.0%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/HiiamLongdz/HiiamLongdz/master/charts/bar_graph.png) 
+
+
+ Last Updated on 28/09/2021
 <!--END_SECTION:waka-->
