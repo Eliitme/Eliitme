@@ -1,9 +1,6 @@
 name: Realtime Development Stats
 
 on:
-  push:
-    branches:
-      - master
   schedule:
     - cron: '10 * * * *'
 
