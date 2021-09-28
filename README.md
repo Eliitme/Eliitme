@@ -6,7 +6,7 @@
 - Fun Fact: tell jokes but no one laughs
 
 ### Spotify Playing 🎧
-[<img src="https://spotify-readme.hiiamlongdz.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" />](https://open.spotify.com/playlist/37i9dQZF1DX1e2VSJFudND)
+[![Spotify](https://novatorem-jet-phi.vercel.app/api/spotify)](https://open.spotify.com/user/312ooo2a5zz44sszdfjmqgjbgmsq)
 
 
 ### Contact with me
