@@ -36,7 +36,13 @@
 <br />
 
 ### Card Stats
-[![HiiamLongdz's github stats](https://github-readme-stats.vercel.app/api?username=HiiamLongdz&show_icons=true&theme=default)](https://github-readme-stats.vercel.app/api?username=HiiamLongdz&show_icons=true&theme=default)
+[![HiiamLongdz's github stats](https://github-readme-stats.vercel.app/api?username=HiiamLongdz&show_icons=true&theme=default)](#CardStats)
+
+### Streaks
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=HiiamLongdz)](#Streaks)
+
+### Trophies
+[![Trophies](https://github-profile-trophy.vercel.app/?username=HiiamLongdz&margin-w=10&theme=discord)](#Trophies)
 
 ### Github Stats
 <!--START_SECTION:waka-->
