@@ -1,9 +1,8 @@
 ### Hi There, I'm Le Van Long 
 
 ### I'm a Student!
-- I'm currently studying at [BKACAD](https://bkacad.edu.vn/)
+- I'm working at [Eastgate Software](https://eastgate-software.com/)
 - I'm currently learning everything 🙄
-- Fun Fact: tell jokes but no one laughs
 
 ### Spotify Playing 🎧
 [![Spotify](https://spotify-readme-v2-ljjw4c8pd-hiiamlongdz.vercel.app/api/spotify)](https://open.spotify.com/user/312ooo2a5zz44sszdfjmqgjbgmsq)
