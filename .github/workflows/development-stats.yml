@@ -2,7 +2,7 @@ name: Realtime Development Stats
 
 on:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '5 * * * *'
 
 jobs:
   update-readme:
@@ -18,3 +18,4 @@ jobs:
           SHOW_TIMEZONE: "True"
 #           SHOW_LANGUAGE_PER_REPO: "True"
           SHOW_LOC_CHART: "True"
+          COMMIT_BY_ME: "True"
