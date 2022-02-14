@@ -1,5 +1,7 @@
 ### Hi There, I'm Le Van Long 
 
+[![wakatime](https://wakatime.com/badge/user/6843c55a-2a06-4fcd-8ddd-3f4718f8cf4d.svg)](https://wakatime.com/@6843c55a-2a06-4fcd-8ddd-3f4718f8cf4d)
+
 ### I'm a Student!
 - I'm working at [Eastgate Software](https://eastgate-software.com/)
 - I'm currently learning everything 🙄
