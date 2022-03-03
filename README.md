@@ -51,7 +51,7 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 52 Contributions in the Year 2022
+> 🏆 53 Contributions in the Year 2022
  > 
 > 📦 168.4 kB Used in GitHub's Storage 
  > 
@@ -73,8 +73,8 @@
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday       47 commits     █████░░░░░░░░░░░░░░░░░░░░   19.58% 
-Tuesday      28 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.67% 
+Monday       46 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.17% 
+Tuesday      29 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.08% 
 Wednesday    21 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.75% 
 Thursday     65 commits     ██████░░░░░░░░░░░░░░░░░░░   27.08% 
 Friday       27 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.25% 
@@ -121,5 +121,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/HiiamLongdz/HiiamLongdz/master/charts/bar_graph.png) 
 
 
- Last Updated on 01/03/2022
+ Last Updated on 03/03/2022
 <!--END_SECTION:waka-->
