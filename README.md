@@ -47,11 +47,11 @@
 
 ### Github Stats
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 92 Contributions in the Year 2022
+> 🏆 93 Contributions in the Year 2022
  > 
 > 📦 170.7 kB Used in GitHub's Storage 
  > 
@@ -74,12 +74,12 @@
 
 ```text
 Monday       74 commits     █████░░░░░░░░░░░░░░░░░░░░   22.29% 
-Tuesday      66 commits     █████░░░░░░░░░░░░░░░░░░░░   19.88% 
+Tuesday      65 commits     █████░░░░░░░░░░░░░░░░░░░░   19.58% 
 Wednesday    36 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.84% 
 Thursday     74 commits     █████░░░░░░░░░░░░░░░░░░░░   22.29% 
 Friday       38 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.45% 
 Saturday     25 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.53% 
-Sunday       19 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.72%
+Sunday       20 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.02%
 
 ```
 
@@ -121,5 +121,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/HiiamLongdz/HiiamLongdz/master/charts/bar_graph.png) 
 
 
- Last Updated on 15/05/2022
+ Last Updated on 16/05/2022
 <!--END_SECTION:waka-->
