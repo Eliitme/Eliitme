@@ -12,7 +12,7 @@
 
 ### Contact with me
 
-[<img src="https://img.icons8.com/dusk/64/000000/facebook-new--v2.png" width="30px"/>Lê Văn Long](https://www.facebook.com/HiiamLongdzz)
+[<img src="https://img.icons8.com/dusk/64/000000/facebook-new--v2.png" width="30px"/>Lê Văn Long](https://www.facebook.com/Eliitme)
 
 ### Languages
 <img align="left" alt="PHP" src="https://img.icons8.com/dusk/64/000000/php-logo.png" width="30px"/>
@@ -37,13 +37,13 @@
 <br />
 
 ### Card Stats
-[![HiiamLongdz's github stats](https://github-readme-stats.vercel.app/api?username=HiiamLongdz&show_icons=true&theme=default)](#CardStats)
+[![HiiamLongdz's github stats](https://github-readme-stats.vercel.app/api?username=Eliitme&show_icons=true&theme=default)](#CardStats)
 
 ### Streaks
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=HiiamLongdz)](#Streaks)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Eliitme)](#Streaks)
 
 ### Trophies
-[![Trophies](https://github-profile-trophy.vercel.app/?username=HiiamLongdz&margin-w=10&theme=discord)](#Trophies)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=Eliitme&margin-w=10&theme=discord)](#Trophies)
 
 ### Github Stats
 <!--START_SECTION:waka-->
