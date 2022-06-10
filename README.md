@@ -6,10 +6,6 @@
 - I'm working at [Eastgate Software](https://eastgate-software.com/)
 - I'm currently learning everything 🙄
 
-### Contact with me
-
-[<img src="https://img.icons8.com/dusk/64/000000/facebook-new--v2.png" width="30px"/>Lê Văn Long](https://www.facebook.com/Eliitme)
-
 ### Languages
 <img align="left" alt="PHP" src="https://img.icons8.com/dusk/64/000000/php-logo.png" width="30px"/>
 <img align="left" alt="JavaScript" src="https://img.icons8.com/dusk/64/000000/javascript.png" width="30px"/>
