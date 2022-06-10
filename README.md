@@ -6,10 +6,6 @@
 - I'm working at [Eastgate Software](https://eastgate-software.com/)
 - I'm currently learning everything 🙄
 
-### Spotify Playing 🎧
-[![Spotify](https://spotify-readme-v2-ljjw4c8pd-hiiamlongdz.vercel.app/api/spotify)](https://open.spotify.com/user/312ooo2a5zz44sszdfjmqgjbgmsq)
-
-
 ### Contact with me
 
 [<img src="https://img.icons8.com/dusk/64/000000/facebook-new--v2.png" width="30px"/>Lê Văn Long](https://www.facebook.com/Eliitme)
