@@ -39,11 +39,11 @@
 
 ### Github Stats
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 156 Contributions in the Year 2022
+> 🏆 157 Contributions in the Year 2022
  > 
 > 📦 96.1 kB Used in GitHub's Storage 
  > 
@@ -66,12 +66,12 @@
 
 ```text
 Monday       22 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.4% 
-Tuesday      26 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.47% 
+Tuesday      25 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.95% 
 Wednesday    21 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.88% 
 Thursday     33 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.1% 
 Friday       36 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.65% 
 Saturday     35 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.13% 
-Sunday       20 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.36%
+Sunday       21 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.88%
 
 ```
 
@@ -114,5 +114,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Eliitme/Eliitme/master/charts/bar_graph.png) 
 
 
- Last Updated on 17/07/2022
+ Last Updated on 18/07/2022
 <!--END_SECTION:waka-->
