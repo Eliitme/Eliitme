@@ -39,11 +39,11 @@
 
 ### Github Stats
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 200 Contributions in the Year 2022
+> 🏆 201 Contributions in the Year 2022
  > 
 > 📦 96.6 kB Used in GitHub's Storage 
  > 
@@ -65,11 +65,11 @@
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday       22 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.05% 
+Monday       23 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.47% 
 Tuesday      32 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.17% 
 Wednesday    26 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.7% 
 Thursday     50 commits     █████░░░░░░░░░░░░░░░░░░░░   20.58% 
-Friday       43 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.7% 
+Friday       42 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.28% 
 Saturday     43 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.7% 
 Sunday       27 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.11%
 
@@ -114,5 +114,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Eliitme/Eliitme/master/charts/bar_graph.png) 
 
 
- Last Updated on 12/09/2022
+ Last Updated on 13/09/2022
 <!--END_SECTION:waka-->
