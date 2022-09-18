@@ -15,6 +15,7 @@
 
 ### Tools
 <img align="left" alt="vscode" src="https://img.icons8.com/ios/344/visual-studio.png" width="30px"/>
+<img align="left" alt="Postman API" src="https://img.icons8.com/wired/344/postman-api.png" width="30px"/>
 <br />
 
 ### Frameworks
@@ -22,6 +23,13 @@
 <img align="left" alt="NextJS" src="https://img.icons8.com/color/344/nextjs.png" width="30px" />
 <img align="left" alt="ReactJS" src="https://img.icons8.com/ios/344/react-native--v1.png" width="30px" />
 <img align="left" alt="VueJS" src="https://img.icons8.com/windows/344/vuejs.png" width="30px" />
+<br />
+
+### Libraries
+<img align="left" alt="ReduxJS" src="https://img.icons8.com/ios/344/redux.png" width="30px"/>
+<img align="left" alt="Material UI" src="https://img.icons8.com/color/344/material-ui.png" width="30px" />
+<img align="left" alt="TailwindCSS" src="https://img.icons8.com/color/344/tailwindcss.png" width="30px" />
+<img align="left" alt="Webpack" src="https://img.icons8.com/dusk/344/webpack.png" width="30px" />
 <br />
 
 ### Databases
