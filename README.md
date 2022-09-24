@@ -38,9 +38,6 @@
 <img align="left" alt="PostgreSQL" src="https://img.icons8.com/ios/344/postgreesql.png" height="30px" />
 <br />
 
-### Card Stats
-[![HiiamLongdz's github stats](https://github-readme-stats.vercel.app/api?username=Eliitme&show_icons=true&theme=default)](#CardStats)
-
 ### Streaks
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Eliitme)](#Streaks)
 
