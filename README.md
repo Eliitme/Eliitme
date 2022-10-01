@@ -115,11 +115,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 ```
 
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/Eliitme/Eliitme/master/charts/bar_graph.png) 
-
-
  Last Updated on 01/10/2022
 <!--END_SECTION:waka-->
