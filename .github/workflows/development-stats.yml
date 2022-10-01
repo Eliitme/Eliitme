@@ -4,7 +4,8 @@ on:
   schedule:
     - cron: '0 0 * * *'
   push:
-    - master
+    branches:
+      - master
 
 jobs:
   update-readme:
