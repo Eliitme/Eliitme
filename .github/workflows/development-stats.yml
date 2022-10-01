@@ -3,6 +3,8 @@ name: Realtime Development Stats
 on:
   schedule:
     - cron: '0 0 * * *'
+  push:
+    - master
 
 jobs:
   update-readme:
