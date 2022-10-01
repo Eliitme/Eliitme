@@ -1,8 +1,7 @@
 ### Hi There, I'm Le Van Long (Eli)
+[![wakatime](https://wakatime.com/badge/user/6843c55a-2a06-4fcd-8ddd-3f4718f8cf4d.svg)](https://wakatime.com/@6843c55a-2a06-4fcd-8ddd-3f4718f8cf4d)
 
 <a href="https://profile.eliitme.xyz"><img src="https://github.com/Eliitme/Eliitme/blob/master/devcard.svg" width="400" alt="Long Le Van (Eli) 's Dev Card"/></a>
-
-[![wakatime](https://wakatime.com/badge/user/6843c55a-2a06-4fcd-8ddd-3f4718f8cf4d.svg)](https://wakatime.com/@6843c55a-2a06-4fcd-8ddd-3f4718f8cf4d)
 
 ### I'm a Fullstack Developer!
 - I'm working at [Eastgate Software](https://eastgate-software.com/)
