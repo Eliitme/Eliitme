@@ -39,17 +39,17 @@
 
 ### Github Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C177%20hrs%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C180%20hrs%2025%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-211-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-210-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 310 Contributions in the Year 2022
+> 🏆 311 Contributions in the Year 2022
  > 
-> 📦 99.3 kB Used in GitHub's Storage 
+> 📦 99.5 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -73,8 +73,8 @@ Monday       18 commits     ██░░░░░░░░░░░░░░░�
 Tuesday      27 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.89% 
 Wednesday    25 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.01% 
 Thursday     33 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.54% 
-Friday       32 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.1% 
-Saturday     32 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.1% 
+Friday       33 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.54% 
+Saturday     31 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.66% 
 Sunday       60 commits     ██████░░░░░░░░░░░░░░░░░░░   26.43%
 
 ```
@@ -86,15 +86,15 @@ Sunday       60 commits     ██████░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Vue.js                   5 hrs 54 mins       ████████████████████████░   96.39% 
-JavaScript               7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.11% 
-Other                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.5%
+Vue.js                   8 hrs 33 mins       ████████████████████████░   95.77% 
+JavaScript               17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.19% 
+Other                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.03%
 
 🔥 Editors: 
-VS Code                  6 hrs 8 mins        █████████████████████████   100.0%
+VS Code                  8 hrs 56 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  6 hrs 8 mins        █████████████████████████   100.0%
+Windows                  8 hrs 56 mins       █████████████████████████   100.0%
 
 ```
 
@@ -115,7 +115,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Eliitme/Eliitme/master/charts/bar_graph.png) 
 
 
- Last Updated on 14/10/2022 02:57:27 UTC
+ Last Updated on 15/10/2022 02:53:53 UTC
 <!--END_SECTION:waka-->
 
 ### Streaks
