@@ -1,8 +1,7 @@
-### Hi There, I'm Le Van Long (Eli)
 <a href="https://profile.eliitme.xyz"><img src="https://github.com/Eliitme/Eliitme/blob/master/devcard.svg" width="400" alt="Long Le Van (Eli) 's Dev Card"/></a>
 
 <h1 align="center">Hi 👋, I'm Long (Eli)</h1>
-<h3 align="center">A passionate fullstack developer from Vietname</h3>
+<h3 align="center">A passionate fullstack developer from Vietnam</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eliitme&label=Profile%20views&color=0e75b6&style=flat" alt="eliitme" /> </p>
 
