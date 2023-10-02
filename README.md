@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **React, Vue, NestJS etc...**
 
-- 📫 How to reach me **contact@eliitme.xyz**
+- 📫 How to reach me **contact@oliveit.info**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
