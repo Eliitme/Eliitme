@@ -16,6 +16,19 @@ web:       https://eliitme.id.vn
 ```
 
 ```bash
+EliitmeVN@hanoi:~$ tree ~/stack
+```
+
+```text
+~/stack
+├── languages   TypeScript · JavaScript · Go · Python
+├── frontend    React · Next.js · Vue · Nuxt · TailwindCSS · Redux · React Query
+├── backend     Node.js · NestJS · Express · FastAPI · Socket.io
+├── data        PostgreSQL · MongoDB · Redis · Supabase · Prisma
+└── infra       Docker · Nginx · Cloudflare · AWS · GitHub Actions · Linux
+```
+
+```bash
 EliitmeVN@hanoi:~$ ls ~/projects --featured
 ```
 
@@ -25,14 +38,6 @@ EliitmeVN@hanoi:~$ ls ~/projects --featured
 | [**zodimi-backend**](https://github.com/Eliitme/zodimi-backend) | `Python` `FastAPI` `Supabase` | Stellune backend — natal charts via Swiss Ephemeris. |
 
 ```bash
-EliitmeVN@hanoi:~$ stack --list
-```
-
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,js,go,py,nodejs,nestjs,fastapi,react,nextjs,vue,tailwind,postgres,mongodb,redis,supabase,docker,nginx,cloudflare,aws,githubactions,linux&theme=dark&perline=11" alt="Tech stack" />
-</p>
-
-```bash
 EliitmeVN@hanoi:~$ gh stats --user eliitme
 ```
 
@@ -40,8 +45,9 @@ EliitmeVN@hanoi:~$ gh stats --user eliitme
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=eliitme&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliitme&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top languages" />
 </p>
-
-<img src="https://streak-stats.demolab.com/?user=eliitme&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+<p>
+  <img height="165" src="https://streak-stats.demolab.com/?user=eliitme&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
 
 ```bash
 EliitmeVN@hanoi:~$ ping --social
