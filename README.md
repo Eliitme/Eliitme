@@ -38,18 +38,6 @@ EliitmeVN@hanoi:~$ ls ~/projects --featured
 | [**zodimi-backend**](https://github.com/Eliitme/zodimi-backend) | `Python` `FastAPI` `Supabase` | Stellune backend — natal charts via Swiss Ephemeris. |
 
 ```bash
-EliitmeVN@hanoi:~$ gh stats --user eliitme
-```
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=eliitme&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliitme&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top languages" />
-</p>
-<p>
-  <img height="165" src="https://streak-stats.demolab.com/?user=eliitme&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
-
-```bash
 EliitmeVN@hanoi:~$ ping --social
 ```
 
@@ -57,6 +45,16 @@ EliitmeVN@hanoi:~$ ping --social
 [![Facebook](https://img.shields.io/badge/facebook-eliitme-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/eliitme)
 [![Instagram](https://img.shields.io/badge/instagram-__eliitme-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/__eliitme)
 [![Website](https://img.shields.io/badge/web-eliitme.id.vn-1a1b26?style=flat-square&logo=googlechrome&logoColor=white)](https://eliitme.id.vn)
+
+```bash
+EliitmeVN@hanoi:~$ git log --graph --all
+```
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Eliitme/Eliitme/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Eliitme/Eliitme/output/snake.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/Eliitme/Eliitme/output/snake-dark.svg" />
+</picture>
 
 ```bash
 EliitmeVN@hanoi:~$ █
