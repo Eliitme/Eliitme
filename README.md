@@ -1,5 +1,9 @@
 <a href="https://eliitme.id.vn">
-  <img src="assets/hero-banner.svg" width="100%" alt="EliitmeVN — fullstack engineer" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/hero-banner.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/hero-banner-light.svg" />
+    <img src="assets/hero-banner.svg" width="100%" alt="EliitmeVN — fullstack engineer" />
+  </picture>
 </a>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=800&color=7AA2F7&vCenter=true&width=600&lines=building+web+apps+end-to-end;automating+a+homelab+from+empty+disk;shipping+Stellune+%E2%9C%A8;tinkering+with+AI+tooling" alt="Typing SVG" />
@@ -18,16 +22,15 @@ web:       https://eliitme.id.vn
 ```
 
 ```bash
-EliitmeVN@hanoi:~$ tree ~/stack
+EliitmeVN@hanoi:~$ cat stack.yml
 ```
 
-```text
-~/stack
-├── languages   TypeScript · JavaScript · Go · Python
-├── frontend    React · Next.js · Vue · Nuxt · TailwindCSS · Redux · React Query
-├── backend     Node.js · NestJS · Express · FastAPI · Socket.io
-├── data        PostgreSQL · MongoDB · Redis · Supabase · Prisma
-└── infra       Docker · Nginx · Cloudflare · AWS · GitHub Actions · Linux
+```yaml
+languages: [TypeScript, JavaScript, Go, Python]
+frontend:  [React, Next.js, Vue, Nuxt, TailwindCSS, Redux, React Query]
+backend:   [Node.js, NestJS, Express, FastAPI, Socket.io]
+data:      [PostgreSQL, MongoDB, Redis, Supabase, Prisma]
+infra:     [Docker, Nginx, Cloudflare, AWS, GitHub Actions, Linux]
 ```
 
 ```bash
@@ -59,5 +62,8 @@ EliitmeVN@hanoi:~$ git log --graph --all
 </picture>
 
 ```bash
-EliitmeVN@hanoi:~$ █
+EliitmeVN@hanoi:~$ exit
+logout — thanks for stopping by 👋
 ```
+
+<p align="right"><sub><a href="#top">↑ back to top</a></sub></p>
