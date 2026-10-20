@@ -1,5 +1,5 @@
 <a href="https://eliitme.id.vn">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=800&color=7AA2F7&vCenter=true&width=600&lines=%24+whoami;eli+%E2%80%94+software+engineer+%40+Eastgate+Software;building+backends%2C+homelabs+%26+AI+tooling" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=800&color=7AA2F7&vCenter=true&width=600&lines=%24+whoami;eli+%E2%80%94+fullstack+engineer+%40+Eastgate+Software;building+web+apps%2C+homelabs+%26+AI+tooling" alt="Typing SVG" />
 </a>
 
 ```bash
@@ -8,9 +8,9 @@ EliitmeVN@hanoi:~$ cat about.yml
 
 ```yaml
 name:      Lê Văn Long (Eli)
-role:      Software Engineer @ Eastgate Software, JSC
+role:      Fullstack Engineer @ Eastgate Software, JSC
 location:  Ha Noi, Viet Nam
-focus:     [backend, infrastructure, AI tooling]
+focus:     [fullstack, infrastructure, AI tooling]
 currently: automating my homelab & shipping Stellune
 web:       https://eliitme.id.vn
 ```
