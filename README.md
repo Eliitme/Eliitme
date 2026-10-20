@@ -3,7 +3,7 @@
 </a>
 
 ```bash
-eli@hanoi:~$ cat about.yml
+EliitmeVN@hanoi:~$ cat about.yml
 ```
 
 ```yaml
@@ -16,7 +16,7 @@ web:       https://eliitme.id.vn
 ```
 
 ```bash
-eli@hanoi:~$ ls ~/projects --featured
+EliitmeVN@hanoi:~$ ls ~/projects --featured
 ```
 
 | repo | stack | what it does |
@@ -25,7 +25,7 @@ eli@hanoi:~$ ls ~/projects --featured
 | [**zodimi-backend**](https://github.com/Eliitme/zodimi-backend) | `Python` `FastAPI` `Supabase` | Stellune backend — natal charts via Swiss Ephemeris. |
 
 ```bash
-eli@hanoi:~$ stack --list
+EliitmeVN@hanoi:~$ stack --list
 ```
 
 <p>
@@ -33,7 +33,7 @@ eli@hanoi:~$ stack --list
 </p>
 
 ```bash
-eli@hanoi:~$ gh stats --user eliitme
+EliitmeVN@hanoi:~$ gh stats --user eliitme
 ```
 
 <p>
@@ -44,7 +44,7 @@ eli@hanoi:~$ gh stats --user eliitme
 <img src="https://streak-stats.demolab.com/?user=eliitme&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
 ```bash
-eli@hanoi:~$ ping --social
+EliitmeVN@hanoi:~$ ping --social
 ```
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-eliitme-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/eliitme)
@@ -53,5 +53,5 @@ eli@hanoi:~$ ping --social
 [![Website](https://img.shields.io/badge/web-eliitme.id.vn-1a1b26?style=flat-square&logo=googlechrome&logoColor=white)](https://eliitme.id.vn)
 
 ```bash
-eli@hanoi:~$ █
+EliitmeVN@hanoi:~$ █
 ```
