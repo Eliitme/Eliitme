@@ -34,10 +34,10 @@ EliitmeVN@hanoi:~$ tree ~/stack
 EliitmeVN@hanoi:~$ ls ~/projects --featured
 ```
 
-| repo | stack | what it does |
-| --- | --- | --- |
-| [**homelab**](https://github.com/Eliitme/homelab) | `Go` | Fully automated homelab — empty disk to running services with a single command. |
-| [**zodimi-backend**](https://github.com/Eliitme/zodimi-backend) | `Python` `FastAPI` `Supabase` | Stellune backend — natal charts via Swiss Ephemeris. |
+| repo | stack | what it does | status |
+| --- | --- | --- | --- |
+| [**homelab**](https://github.com/Eliitme/homelab) | `Go` | Fully automated homelab — empty disk to running services with a single command. | ![stars](https://img.shields.io/github/stars/Eliitme/homelab?style=flat-square&color=7aa2f7&labelColor=1a1b26&label=%E2%98%85) ![last commit](https://img.shields.io/github/last-commit/Eliitme/homelab?style=flat-square&color=9ece6a&labelColor=1a1b26&label=updated) |
+| [**zodimi-backend**](https://github.com/Eliitme/zodimi-backend) | `Python` `FastAPI` `Supabase` | Stellune backend — natal charts via Swiss Ephemeris. | ![stars](https://img.shields.io/github/stars/Eliitme/zodimi-backend?style=flat-square&color=7aa2f7&labelColor=1a1b26&label=%E2%98%85) ![last commit](https://img.shields.io/github/last-commit/Eliitme/zodimi-backend?style=flat-square&color=9ece6a&labelColor=1a1b26&label=updated) |
 
 ```bash
 EliitmeVN@hanoi:~$ ping --social
