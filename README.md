@@ -1,6 +1,8 @@
 <a href="https://eliitme.id.vn">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=800&color=7AA2F7&vCenter=true&width=600&lines=%24+whoami;eli+%E2%80%94+fullstack+engineer+%40+Eastgate+Software;building+web+apps%2C+homelabs+%26+AI+tooling" alt="Typing SVG" />
+  <img src="assets/hero-banner.svg" width="100%" alt="EliitmeVN — fullstack engineer" />
 </a>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=800&color=7AA2F7&vCenter=true&width=600&lines=building+web+apps+end-to-end;automating+a+homelab+from+empty+disk;shipping+Stellune+%E2%9C%A8;tinkering+with+AI+tooling" alt="Typing SVG" />
 
 ```bash
 EliitmeVN@hanoi:~$ cat about.yml
