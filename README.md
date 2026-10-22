@@ -6,7 +6,7 @@
   </picture>
 </a>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=800&color=7AA2F7&vCenter=true&width=600&lines=building+web+apps+end-to-end;automating+a+homelab+from+empty+disk;shipping+Stellune+%E2%9C%A8;tinkering+with+AI+tooling" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=800&color=7AA2F7&vCenter=true&width=600&lines=building+web+apps+end-to-end;shipping+Cluvia+for+macOS;shipping+Zodimi+%E2%9C%A8;tinkering+with+AI+tooling" alt="Typing SVG" />
 
 ```bash
 EliitmeVN@hanoi:~$ cat about.yml
@@ -17,7 +17,7 @@ name:      Lê Văn Long (Eli)
 role:      Fullstack Engineer @ Eastgate Software, JSC
 location:  Ha Noi, Viet Nam
 focus:     [fullstack, infrastructure, AI tooling]
-currently: automating my homelab & shipping Stellune
+currently: shipping Cluvia & Zodimi
 web:       https://eliitme.id.vn
 ```
 
@@ -39,8 +39,8 @@ EliitmeVN@hanoi:~$ ls ~/projects --featured
 
 | repo | stack | what it does | status |
 | --- | --- | --- | --- |
-| [**homelab**](https://github.com/Eliitme/homelab) | `Go` | Fully automated homelab — empty disk to running services with a single command. | ![stars](https://img.shields.io/github/stars/Eliitme/homelab?style=flat-square&color=7aa2f7&labelColor=1a1b26&label=%E2%98%85) ![last commit](https://img.shields.io/github/last-commit/Eliitme/homelab?style=flat-square&color=9ece6a&labelColor=1a1b26&label=updated) |
-| [**zodimi-backend**](https://github.com/Eliitme/zodimi-backend) | `Python` `FastAPI` `Supabase` | Stellune backend — natal charts via Swiss Ephemeris. | ![stars](https://img.shields.io/github/stars/Eliitme/zodimi-backend?style=flat-square&color=7aa2f7&labelColor=1a1b26&label=%E2%98%85) ![last commit](https://img.shields.io/github/last-commit/Eliitme/zodimi-backend?style=flat-square&color=9ece6a&labelColor=1a1b26&label=updated) |
+| [**Cluvia**](https://github.com/Eliitme/Cluvia) | `Swift` `SwiftUI` | Native macOS Kubernetes GUI — clusters, CRDs, pod logs, shells, port-forward, Helm. No Electron, no kubectl. `brew install --cask eliitme/tap/cluvia` | ![stars](https://img.shields.io/github/stars/Eliitme/Cluvia?style=flat-square&color=7aa2f7&labelColor=1a1b26&label=%E2%98%85) ![last commit](https://img.shields.io/github/last-commit/Eliitme/Cluvia?style=flat-square&color=9ece6a&labelColor=1a1b26&label=updated) |
+| [**zodimi**](https://github.com/Eliitme/zodimi-backend) | `FastAPI` `SwiftUI` `Next.js` | Vietnamese natal charts & tarot. Monorepo: backend (Swiss Ephemeris + Supabase), iOS, web. Backend mirror is public. | ![stars](https://img.shields.io/github/stars/Eliitme/zodimi-backend?style=flat-square&color=7aa2f7&labelColor=1a1b26&label=%E2%98%85) ![last commit](https://img.shields.io/github/last-commit/Eliitme/zodimi-backend?style=flat-square&color=9ece6a&labelColor=1a1b26&label=updated) |
 
 ```bash
 EliitmeVN@hanoi:~$ ping --social
